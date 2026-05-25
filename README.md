@@ -1,1 +1,1 @@
-# ai-trading-bot
+# ai_trading_bot_models
